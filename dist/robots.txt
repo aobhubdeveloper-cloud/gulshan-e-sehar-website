@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gseharhyd.com/sitemap.xml
